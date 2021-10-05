@@ -9,10 +9,10 @@ Once the python is installed, install all the dependencies by running the below 
 
   pip3 install -r requirements.txt
   
-### Models download link
+### Model download link
 
-  Deepspeech model - https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.tflite
-  Summarization model - https://huggingface.co/facebook/bart-large-cnn
+  1. Deepspeech model - https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.tflite
+  2. Summarization model - https://huggingface.co/facebook/bart-large-cnn
 
 ### Steps to be followed
 
