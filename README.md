@@ -26,4 +26,5 @@ Speech summarizer can be built by following below steps.
 
 ### Build your Speech summarizer in 5 minutes
 Run Jupyter notebook for quick changes and experiments
+
 Run speech_summarizer.py by passing audio files and model files as input
