@@ -25,6 +25,6 @@ Speech summarizer can be built by following below steps.
 6. Servers and webframeworks can be leveraged for servicing the request as REST API - optional step
 
 ### Build your Speech summarizer in 5 minutes
-Run Jupyter notebook for quick changes and experiments
 
-Run speech_summarizer.py by passing audio files and model files as input
+1. Run Jupyter notebook for quick changes and experiments
+2. Run speech_summarizer.py by passing audio files and model files as input
