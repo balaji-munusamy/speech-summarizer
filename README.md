@@ -17,19 +17,20 @@ Once the python is installed, install all the dependencies by running the below 
 ### Steps to be followed
 
 Speech file to be converted should meet below specifications.
-  Sample rate - 16KHz
-  Audio channel - Mono
+  1. Sample rate - 16KHz
+  2. Audio channel - Mono
+  3. File format - .wav
 
 Speech summarizer can be built by following below steps.
 
-1. Select a development environment of your choice
-2. Analyse speech files to check if the specifications are met
-3. Convert Speech to text
-4. Encode text to tokenized IDs
-5. Generate and decode summarized text
-6. Servers and webframeworks can be leveraged for servicing the request as REST API - optional step
+  1. Select a development environment of your choice
+  2. Analyse speech files to check if the specifications are met
+  3. Convert Speech to text
+  4. Encode text to tokenized IDs
+  5. Generate and decode summarized text
+  6. Servers and webframeworks can be leveraged for servicing the request as REST API - optional step
 
 ### Build your Speech summarizer in 5 minutes
 
-1. Run Jupyter notebook for quick changes and experiments
-2. Run speech_summarizer.py by passing audio files and model files as input
+  1. Run Jupyter notebook for quick changes and experiments
+  2. Run speech_summarizer.py by passing audio files and model files as input
